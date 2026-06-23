@@ -71,5 +71,5 @@ A movie search application that retrieves movie details from OMDb API.
 
 **Bharath Chandra Gurrala**
 
-- LinkedIn: https://www.linkedin.com/in/gurrala-bharath-chandra-3a2a0a349/
+- LinkedIn: https://www.linkedin.com/in/bharath-chandra-gurrala-3a2a0a349/
 - GitHub: https://github.com/Bharath00990
